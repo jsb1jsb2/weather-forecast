@@ -1,0 +1,4 @@
+using prophet made by facebook for time-series predictation
+
+https://hleecaster.com/predict-stock-prices-with-python/
+
